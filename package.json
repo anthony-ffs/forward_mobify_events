@@ -1,0 +1,16 @@
+{
+  "name": "fathom-control-event-stream-consumer",
+  "version": "1.0.0",
+  "description": "Sample Implementation Of An Event Stream Consumer",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "async": "^1.5.0",
+    "aws-sdk": "*",
+    "lodash": "^3.10.1",
+    "supertest": "^1.2.0"
+  },
+  "engine": "node 0.12.x",
+  "devDependencies": {
+  }
+}
